@@ -1,4 +1,4 @@
-package socketprogramming;
+package others;
 
 import java.io.*;
 import java.net.ServerSocket;
